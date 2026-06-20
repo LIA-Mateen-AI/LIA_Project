@@ -3,3 +3,4 @@ python-dotenv
 groq
 duckduckgo_search
 streamlit_mic_recorder
+gTTS
